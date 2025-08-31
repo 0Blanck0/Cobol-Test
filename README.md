@@ -1,4 +1,4 @@
-# Cobol Test
+# Cobol Learning
 
 _English version below_
 
